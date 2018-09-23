@@ -1,1 +1,1 @@
-This project aim to write a MIPS assembly codes for functions and arrays.
+This project aim to write a MIPS assembly codes for function and array.
